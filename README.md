@@ -10,5 +10,5 @@ This is beginning to date and shows how my code came to improve over the years.
 
 ### Identified immediate needs for refactor
 
--Add proper docstring
--Review basic syntax and variable names
+- Add proper docstring
+- Review basic syntax and variable names
